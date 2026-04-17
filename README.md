@@ -9,7 +9,7 @@ A command-line tool built in TypeScript that determines the applicable flood ins
 #### Installation
 1. Unzip the project directory and navigate into it via your terminal:
    ```bash
-   cd forerunner-cli
+   cd FloodInsuranceRateMap
 
 2. Install the necessary dependencies (TypeScript, Jest, and type definitions):
 
@@ -22,7 +22,7 @@ A command-line tool built in TypeScript that determines the applicable flood ins
 #### Project Structure
 
 ```txt
-forerunner-flood/
+FloodInsuranceRateMap/
 ├── package.json
 ├── tsconfig.json
 ├── README.md
